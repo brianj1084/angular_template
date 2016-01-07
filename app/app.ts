@@ -1,6 +1,6 @@
 /// <reference path="_references.ts" />
 
-module app {
+namespace app {
     'use strict';
 
     var app = angular.module('app', ['ui.router', 'ui.bootstrap']);

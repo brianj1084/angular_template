@@ -1,6 +1,6 @@
 /// <reference path="../_references.ts" />
 
-module app.controllers {
+namespace app.controllers {
     'use strict';
     
     export class HomeController {
